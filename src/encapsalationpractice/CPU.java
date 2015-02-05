@@ -9,15 +9,6 @@ package encapsalationpractice;
  *
  * @author Mitch
  */
-public class Person {
-    Computer comp = new Computer();
-    
-    
-    public void buyAndAssembleComputer(){
-    comp.buyComputer();
-    comp.assembleComputer();
-}
-    
-            
+public class CPU {
     
 }

@@ -16,6 +16,8 @@ public class StartUp {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Person mitchell = new Person();
+        mitchell.buyAndAssembleComputer();
     }
     
 }
