@@ -1,0 +1,16 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package encapsalationpractice;
+
+/**
+ *
+ * @author Mitch
+ */
+public class Computer {
+    Motherboard mobo = new Motherboard();
+    RAM rAM = new RAM();
+    HardDrive hardDrv
+}
